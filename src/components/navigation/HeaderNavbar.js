@@ -9,10 +9,10 @@ class HeaderNavBar extends Component{
         this.userRole = "admin";
         var navbarText = "";
         if(this.userRole == "admin"){
-            this.navbarText = "Inventory Management (Admin Portal)"
+            this.navbarText = "Inventory Management System 1.0 (Admin Mode)"
         }
         else{
-            this.navbarText = "Inventory Management"
+            this.navbarText = "Inventory Management System 1.0"
         }
     }
 
@@ -27,6 +27,7 @@ class HeaderNavBar extends Component{
 
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ml-auto">
+                            <NavLiTag link="/" className="nav-link" itemValue="About"></NavLiTag>
                             <NavLiTag link="/" className="nav-link" itemValue="Home"></NavLiTag>
                             <NavLiTag link="/login" className="nav-link" itemValue="Logout"></NavLiTag>
                         </ul>

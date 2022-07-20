@@ -29,7 +29,7 @@ class RegistrationForm extends Component{
                     </div>
                     <div className="form-group form-check">
                         <input type="checkbox" className="form-check-input" id="exampleCheck1"/>
-                        <label className="form-check-label" for="exampleCheck1">I agree all terms & conditions</label>
+                        <label className="form-check-label" for="exampleCheck1">I agree all terms and conditions</label>
                     </div>
                     <div className="form-group">
                         <button className="btn btn-primary w-100 mt-2">Login</button>

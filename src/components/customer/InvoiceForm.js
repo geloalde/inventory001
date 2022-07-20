@@ -26,18 +26,18 @@ class InvoiceForm extends Component{
         ]
         this.columnList = ["ID", "Name", "Stock", "Price", "Action"];
         this.tableData = [
-            {"id": 1, "name": "USB 2.0 to Sata 7+15 Pin 2.5 Converter ..", "stock": 20, "price": "238.00"},
-            {"id": 2, "name": "FANTECH VX7 CRYPTO GAMING MOUSE ..", "stock": 20, "price": "980.00"},
-            {"id": 3, "name": "Cake decoration turntable - 28cm and 3 pieces set ..", "stock": 20, "price": "305.00"},
-            {"id": 4, "name": "Stylish White Sunglasses ..", "stock": 20, "price": "139.00"},
+            {"id": 1, "name": "H&M Black Premium Tshirt", "stock": 20, "price": "238.00"},
+            {"id": 2, "name": "Zara Womens Skinny Pants", "stock": 20, "price": "980.00"},
+            {"id": 3, "name": "H&M Childrens Socks", "stock": 20, "price": "305.00"},
+            {"id": 4, "name": "New Era Cap Black Yankees", "stock": 20, "price": "2000.00"},
         ]
 
         this.invoiceColumnList = ["ID", "Name", "Quantity", "Price", "Sub total"];
         this.invoiceTableData = [
-            {"id": 1, "name": "USB 2.0 to Sata 7+15 Pin 2.5 Converter ..", "quantity": 1, "price": "238.00", "subtotal": 2000},
-            {"id": 2, "name": "FANTECH VX7 CRYPTO GAMING MOUSE ..", "quantity": 2, "price": "980.00", "subtotal": 2000},
-            {"id": 3, "name": "Cake decoration turntable - 28cm and 3 pieces set ..", "quantity": 1, "price": "305.00", "subtotal": 2000},
-            {"id": 4, "name": "Stylish White Sunglasses ..", "quantity": 4, "price": "139.00", "subtotal": 2000},
+            {"id": 1, "name": "H&M Black Premium Tshirt..", "quantity": 1, "price": "238.00", "subtotal": "238.00"},
+            {"id": 2, "name": "Zara Womens Skinny Pants", "quantity": 1, "price": "980.00", "subtotal": "980.00"},
+            {"id": 3, "name": "H&M Childrens Socks", "quantity": 2, "price": "305.50", "subtotal": "610.00"},
+            {"id": 4, "name": "New Era Cap Black Yankees", "quantity": 1, "price": "2000.00", "subtotal": "2000.00"},
         ]
     }
 
@@ -69,7 +69,7 @@ class InvoiceForm extends Component{
                                     <tbody>
                                         <tr>
                                             <td>Total</td>
-                                            <td>25785.00</td>
+                                            <td>3828.00</td>
                                         </tr>
                                     </tbody>
                                 </table>

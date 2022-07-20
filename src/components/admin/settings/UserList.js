@@ -9,9 +9,9 @@ class UserList extends Component{
         super(props);
         this.columnList = ["ID", "Name", "Email", "Role", "Status", "Action"];
         this.tableData = [
-            {"id": 1, "name": "Md Nazmul Hasan", "email": "hasan08sust@gmail.com", "role": "Super Admin", "status": "Active"},
-            {"id": 2, "name": "Farzana Yesmin", "email": "farzana.26@gmail.com", "role": "Admin", "status": "Active"},
-            {"id": 3, "name": "Irfan Ahmed Nabil", "email": "nabil.irfan91@gmail.com", "role": "Editor", "status": "Active"},
+            {"id": 1, "name": "Gelo A.", "email": "geloa@gmail.com", "role": "Super Admin", "status": "Active"},
+            {"id": 2, "name": "Gela C.", "email": "gelac.@gmail.com", "role": "Admin", "status": "Active"},
+            {"id": 3, "name": "Ernest T.", "email": "ernestt@gmail.com", "role": "Editor", "status": "Active"},
         ]
     }
 

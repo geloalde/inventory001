@@ -21,24 +21,24 @@ class ShopView extends Component{
                         <div className="container-fluid">
                             <div className="row">
                                 <div className="col-12">
-                                    <p><b>Shop Owner Information</b></p>
+                                    <p><b>Shop Owner Informations!</b></p>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">First Name</label>
-                                        <input type="text" className="form-control" value="Md Nazmul" readOnly/>
+                                        <input type="text" className="form-control" value="sssss" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Last Name</label>
-                                        <input type="text" className="form-control" value="Hasan" readOnly/>
+                                        <input type="text" className="form-control" value="ssss" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Email</label>
-                                        <input type="text" className="form-control" value="hasan08sust@gmail.com" readOnly/>
+                                        <input type="text" className="form-control" value="sssss@gmail.com" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">

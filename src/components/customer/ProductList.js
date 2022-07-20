@@ -10,16 +10,20 @@ class ProductList extends Component{
         super(props);
         this.columnList = ["ID", "Name", "Category", "Price", "Stock Amount", "Action"];
         this.tableData = [
-            {"id": 1, "name": "USB 2.0 to Sata 7+15 Pin 2.5 Converter ..", "category": "Computer Accessories", "price": "238.00", "stock": 20},
-            {"id": 2, "name": "FANTECH VX7 CRYPTO GAMING MOUSE ..", "category": "Computer & Laptop", "price": "980.00", "stock": 34},
-            {"id": 3, "name": "Cake decoration turntable - 28cm and 3 pieces set ..", "category": "Kitchen & Dining", "price": "305.00", "stock": 14},
-            {"id": 4, "name": "Stylish White Sunglasses ..", "category": "Watch & Sunglasses", "price": "139.00", "stock": 40},
+            {"id": 1, "name": "H&M Black Premium Tshirt", "category": "Clothing", "price": "238.00", "stock": 20},
+            {"id": 2, "name": "Zara Womens Skinny Pants", "category": "Clothing", "price": "980.00", "stock": 20},
+            {"id": 3, "name": "H&M Childrens Socks", "category": "Clothing", "price": "305.00", "stock": 20},
+            {"id": 4, "name": "New Era Cap Black Yankees", "category": "Clothing", "price": "2000.00", "stock": 20},
+            {"id": 5, "name": "HP Keyboard and Mouse Combo", "category": "Electronic Accessories", "price": "450.00", "stock": 20},
+            {"id": 6, "name": "Stainless Steel Knife 8in.", "category": "Home & Lifestyle", "price": "140.00", "stock": 20},
+            {"id": 7, "name": "Sunblock Cream 30SPF 100ML", "category": "Health & Beauty", "price": "150.00", "stock": 20},
         ]
 
         this.selectData = [
             {"id": 1, "name": "Electronic Accessories"},
             {"id": 2, "name": "Health & Beauty"},
-            {"id": 3, "name": "Home & Lifestyle"}
+            {"id": 3, "name": "Home & Lifestyle"},
+            {"id": 4, "name": "Clothing"},
         ]
     }
 

@@ -33,7 +33,7 @@ class ProfilePage extends Component{
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Email</label>
-                                        <input type="text" className="form-control" value="hasan08sust@gmail.com" readOnly/>
+                                        <input type="text" className="form-control" value="gelo.a" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">

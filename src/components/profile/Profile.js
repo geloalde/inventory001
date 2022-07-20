@@ -32,7 +32,7 @@ class Profile extends Component{
                                 <div className="col-4">
                                     <div className="form-group">
                                         <label className="mb-2">Email</label>
-                                        <input type="text" className="form-control form-control-sm" value="hasan08sust@gmail.com" readOnly/>
+                                        <input type="text" className="form-control form-control-sm" value="admin@gmail.com" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-4">
@@ -44,7 +44,7 @@ class Profile extends Component{
                                 <div className="col-4">
                                     <div className="form-group">
                                         <label className="mb-2">Joined</label>
-                                        <input type="text" className="form-control form-control-sm" value="23rd August, 2021" readOnly/>
+                                        <input type="text" className="form-control form-control-sm" value="13 July, 2022" readOnly/>
                                     </div>
                                 </div>
 

@@ -23,13 +23,13 @@ class ShopView extends Component{
                                     <p><b>Shop Owner Information</b></p>
                                 </div>
                                 <div className="col-6">
-                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Md Nazmul Hasan" label="First Name" />
+                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Juan" label="First Name" />
                                 </div>
                                 <div className="col-6">
-                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Hasan" label="Last Name" />
+                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Dela Cruz" label="Last Name" />
                                 </div>
                                 <div className="col-6">
-                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="hasan08sust@gmail.com" label="Email" />
+                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="jdc@email.com" label="Email" />
                                 </div>
                                 <div className="col-6">
                                     <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Active" label="Status" />
@@ -40,11 +40,11 @@ class ShopView extends Component{
                                     <p><b>Shop Information</b></p>
                                 </div>
                                 <div className="col-6">
-                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Digital Camera Shop" label="Shop Name" />
+                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="Samut Sari Shop" label="Shop Name" />
                                     
                                 </div>
                                 <div className="col-6">
-                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="25" label="Total Employeeatus" />
+                                    <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="3" label="Total Employee" />
                                 </div>
                                 <div className="col-6">
                                     <InputFormGroup inputClassName="form-control" labelClassName="mb-2" isReadOnly={true} value="245" label="Total Products" />
