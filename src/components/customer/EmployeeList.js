@@ -11,7 +11,7 @@ class EmployeeList extends Component{
         this.columnList = ["ID", "Name", "Email", "Role", "Status", "Joined At", "Action"];
         this.tableData = [
             {"id": 1, "name": "Gelo A.", "email": "gelo.a@gmail.com", "role": "Sales", "status": "Active", "joined_at": "20th August, 2021"},
-            {"id": 2, "name": "Angela C.", "email": "angelo.c@gmail.com", "role": "Sales", "status": "Active", "joined_at": "30th August, 2021"},
+            {"id": 2, "name": "Angela C.", "email": "angela.c@gmail.com", "role": "Sales", "status": "Active", "joined_at": "30th August, 2021"},
             {"id": 3, "name": "Ernest T.", "email": "ernest.t@gmail.com", "role": "Sales", "status": "Active", "joined_at": "31th August, 2021"},
         ]
 
