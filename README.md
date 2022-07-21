@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Edited the version 1.0 - July 22, 2022.
+
 
 ## Available URLs
 * For admin: `http://localhost:3000/admin/`

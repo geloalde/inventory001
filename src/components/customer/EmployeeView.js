@@ -22,37 +22,37 @@ class EmployeeView extends Component{
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">First Name</label>
-                                        <input type="text" className="form-control" value="Md Nazmul" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Last Name</label>
-                                        <input type="text" className="form-control" value="Hasan" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Email</label>
-                                        <input type="text" className="form-control" value="hasan08sust@gmail.com" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Role</label>
-                                        <input type="text" className="form-control" value="Sales" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Status</label>
-                                        <input type="text" className="form-control" value="Active" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
                                 <div className="col-6">
                                     <div className="form-group">
                                         <label className="mb-2">Joined At</label>
-                                        <input type="text" className="form-control" value="20th April, 2021" readOnly/>
+                                        <input type="text" className="form-control" value="" readOnly/>
                                     </div>
                                 </div>
 

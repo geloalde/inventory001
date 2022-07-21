@@ -10,7 +10,8 @@ class ShopList extends Component{
         this.columnList = ["ID", "Name", "Owner", "Employee", "Status", "Action"];
         this.tableData = [
             {"id": 1, "name": "DC Supply Co.", "owner": "dcowner@email.com", "employee": "50", "status": "Active"},
-            {"id": 2, "name": "Digital IT", "owner": "farzana.26@gmail.com", "employee": "0", "status": "Active"},
+            {"id": 2, "name": "Digital IT", "owner": "dit@gmail.com", "employee": "0", "status": "Active"},
+            {"id": 3, "name": "Digital IT", "owner": "hnm6@gmail.com", "employee": "0", "status": "Active"},
         ]
     }
 

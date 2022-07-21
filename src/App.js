@@ -6,6 +6,7 @@ import NotFoundPage from "./pages/NotFound";
 import AuthPage from "./pages/AuthPage";
 import RootPage from "./pages/admin/RootPage";
 import CustomerRootPage from "./pages/customer/RootPage";
+import AppCards from './components/navigation/About';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
             </Route>
             <Route path="/app" component={CustomerRootPage}></Route>
             <Route exact path="/login" component={AuthPage}></Route>
+            <Route exact path="/about" component={AppCards}></Route>
             <Route exact path="/registration" component={AuthPage}></Route>
             <Route exact path="/password-reset-account-verify" component={AuthPage}></Route>
             <Route exact path="/password-reset" component={AuthPage}></Route>
